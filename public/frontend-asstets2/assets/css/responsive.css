@@ -1,0 +1,541 @@
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {}
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+    .features-single-box {
+        width: 239px
+    }
+    /*Quantam_X_Alpha.html-start*/
+    .box-number-algorithm.line-one:before {
+        width: 190px;
+        -webkit-transform: rotate( -228deg);
+        transform: rotate( -228deg);
+        right: 20%
+    }
+    .responsive-pdf {
+        display: none
+    }
+    /*Quantam_X_Alpha.html-end*/
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /*index.html-start*/
+    .top-slider-content h1 {
+        font-size: 40px;
+        width: 90%
+    }
+    .top-slider-content p {
+        font-size: 18px;
+        width: 800px
+    }
+    .Top-Features {
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -ms-grid-row-align: center;
+        align-items: center;
+        -ms-flex-flow: column;
+        flex-flow: column
+    }
+    .left-features {
+        text-align: center
+    }
+    .left-features img {
+        width: 300px
+    }
+    .title h2 {
+        border-bottom: 2px solid #333333;
+        display: inline;
+        padding: 5px 20px
+    }
+    .top-features-content p {
+        border: 0px;
+        margin: 20px 20px
+    }
+    .right-features {
+        margin-top: 60px
+    }
+    .features-single-box {
+        width: 400px
+    }
+    .back-image-watermark img {
+        max-width: 400px
+    }
+    .footer-dn {
+        display: none
+    }
+    /*index.html-end*/
+    /*Quantam_X_Alpha.html-start*/
+    .without-responsive-pdf {
+        display: none
+    }
+    .responsive-pdf {
+        display: unset
+    }
+    .single-box-algorithm {
+        -ms-flex-flow: row;
+        flex-flow: row
+    }
+    .box-number-algorithm.line-one:after {
+        width: 160px;
+        -webkit-transform: rotate( 210deg);
+        transform: rotate( 210deg);
+        height: 20px;
+        right: 20%;
+        top: -25%
+    }
+    .box-number-algorithm.line-one:before {
+        width: 210px;
+        height: 20px;
+        -webkit-transform: rotate( -226deg);
+        transform: rotate( -226deg);
+        right: 0%;
+        top: 120%
+    }
+    .need-box-content {
+        margin-right: 0px !important;
+        height: auto !important;
+        margin-bottom: 50px !important;
+        padding: 30px 25px;
+    }
+    /*Quantam_X_Alpha.html-end*/
+    /*contact.html-start*/
+    .full-ADDRESS {
+        margin-bottom: 80px
+    }
+    .title-light {
+        text-align: center !important
+    }
+    .input-contact {
+        margin: 0px !important
+    }
+    /*contact.html-end*/
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /*index.html-start*/
+    .top-slider-content h1 {
+        font-size: 30px;
+        width: 85%
+    }
+    .top-slider-content p {
+        font-size: 16px;
+        width: 80%
+    }
+    .top-slider-content button {
+        font-size: 16px
+    }
+    .Top-Features {
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -ms-grid-row-align: center;
+        align-items: center;
+        -ms-flex-flow: column;
+        flex-flow: column
+    }
+    .left-features {
+        text-align: center
+    }
+    .left-features img {
+        width: 300px
+    }
+    .title h2 {
+        border-bottom: 2px solid #333333;
+        display: inline;
+        padding: 5px 20px
+    }
+    .top-features-content p {
+        border: 0px;
+        margin: 20px 20px
+    }
+    .right-features {
+        margin-top: 60px
+    }
+    .features-single-box {
+        width: 308px
+    }
+    .main-contact.text-center {
+        width: 100%
+    }
+    .back-image-watermark img {
+        max-width: 400px
+    }
+    .footer-dn {
+        display: none
+    }
+    .single-blog-box {
+        overflow-y: scroll
+    }
+    /*index.html-end*/
+    /*Quantam_X_Alpha.html-start*/
+    .without-responsive-pdf {
+        display: none
+    }
+    .responsive-pdf {
+        display: unset
+    }
+    .box-number-algorithm {
+        display: none
+    }
+    .box-content-algorithm {
+        width: 100%
+    }
+    .box-content-algorithm {
+        margin: 0px !important
+    }
+    .responsive-table {
+        display: none
+    }
+    .need-box-content {
+        margin-right: 0px !important;
+        height: auto !important;
+        margin-bottom: 50px !important;
+        padding: 30px 25px;
+    }
+    .table-quantum {
+        width: 100%;
+        margin-bottom: 50px
+    }
+    /*Quantam_X_Alpha.html-end*/
+    /*About.html-start*/
+    .point-image img {
+        width: 100% !important
+    }
+    .point-content {
+        width: 100%;
+        text-align: start
+    }
+    /*About.html-end*/
+    /*contact.html-start*/
+    .full-ADDRESS {
+        margin-bottom: 80px
+    }
+    .title-light {
+        text-align: center !important
+    }
+    .input-contact {
+        margin: 0 30px !important
+    }
+    /*contact.html-end*/
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    h2 {
+        font-size: 30px !important
+    }
+    .owl-dots {
+        display: none !important
+    }
+    /*index.html-start*/
+    .top-slider-content h1 {
+        font-size: 30px;
+        width: 100%
+    }
+    .top-slider-content p {
+        font-size: 16px;
+        width: 100%
+    }
+    .top-slider-content button {
+        font-size: 16px
+    }
+    .Top-Features {
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -ms-grid-row-align: center;
+        align-items: center;
+        -ms-flex-flow: column;
+        flex-flow: column
+    }
+    .left-features {
+        text-align: center
+    }
+    .left-features img {
+        width: 300px
+    }
+    .title h2 {
+        border-bottom: 2px solid #333333;
+        display: inline;
+        padding: 5px 20px
+    }
+    .title-content p {
+        width: 100%;
+        border: 0px;
+        padding: 0px !important
+    }
+    .title-dark h2 {
+        border-bottom: 2px solid white !important;
+        padding-bottom: 10px
+    }
+    .top-features-content p {
+        border: 0px;
+        margin: 20px 20px
+    }
+    .right-features {
+        margin-top: 60px
+    }
+    .features-single-box {
+        width: 100%
+    }
+    .main-contact.text-center {
+        width: 100%
+    }
+    .back-image-watermark img {
+        max-width: 400px
+    }
+    .all-list-pdf li {
+        text-align: center;
+        border: 0px
+    }
+    .footer-dn {
+        display: none
+    }
+    .single-blog-box {
+        overflow-y: scroll
+    }
+    .bottom-footer-left {
+        text-align: center;
+        margin-bottom: 20px
+    }
+    .bottom-footer-right {
+        text-align: center
+    }
+    .download-pdf {
+        margin: 10px 0
+    }
+    /*index.html-end*/
+    /*Quantam_X_Alpha.html-start*/
+    .without-responsive-pdf {
+        display: none
+    }
+    .strategy-image-letf img {
+        display: none
+    }
+    .responsive-pdf {
+        display: unset
+    }
+    .box-number-algorithm {
+        display: none
+    }
+    .box-content-algorithm {
+        width: 100%
+    }
+    .box-content-algorithm {
+        margin: 0px !important
+    }
+    .responsive-table {
+        display: none
+    }
+    .need-box-content {
+        margin-right: 0px !important;
+        height: auto !important;
+        margin-bottom: 50px !important;
+        padding: 30px 25px;
+    }
+    .table-quantum {
+        width: 100%;
+        margin-bottom: 50px
+    }
+    /*Quantam_X_Alpha.html-end*/
+    /*About.html-start*/
+    .point-image img {
+        width: 100% !important
+    }
+    .point-content {
+        width: 100%;
+        text-align: start
+    }
+    /*About.html-end*/
+    /*contact.html-start*/
+    .full-ADDRESS {
+        margin-bottom: 80px
+    }
+    .title-light {
+        text-align: center !important
+    }
+    .input-contact {
+        margin: 0 30px !important
+    }
+    /*contact.html-end*/
+}
+
+@media (max-width: 575px) {
+    h2 {
+        font-size: 30px !important
+    }
+    .owl-dots {
+        display: none !important
+    }
+    /*index.html-start*/
+    .top-slider-content {
+        padding: 0 20px;
+    }
+    .top-slider-content h1 {
+        font-size: 25px;
+        width: 100%
+    }
+    .top-slider-content p {
+        font-size: 16px;
+        width: 100%
+    }
+    .top-slider-content button {
+        font-size: 16px
+    }
+    .Top-Features {
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -ms-grid-row-align: center;
+        align-items: center;
+        -ms-flex-flow: column;
+        flex-flow: column
+    }
+    .left-features {
+        text-align: center
+    }
+    .left-features img {
+        width: 300px
+    }
+    .title-content p {
+        width: 100%;
+        border: 0px;
+        padding: 0px !important
+    }
+    .title-dark h2 {
+        border-bottom: 2px solid white !important;
+        padding-bottom: 10px
+    }
+    .title h2 {
+        border-bottom: 2px solid #333333;
+        display: inline;
+        padding: 5px 20px
+    }
+    .top-features-content p {
+        border: 0px;
+        margin: 20px 20px
+    }
+    .right-features {
+        margin-top: 60px
+    }
+    .features-single-box {
+        width: 100%
+    }
+    .main-contact.text-center {
+        width: 100%
+    }
+    .back-image-watermark img {
+        max-width: 300px
+    }
+    .all-list-pdf li {
+        text-align: center;
+        border: 0px
+    }
+    .footer-dn {
+        display: none
+    }
+    .top-right-footer li {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start
+    }
+    .top-right-footer {
+        text-align: left;
+        margin-top: 30px
+    }
+    .top-right-footer li i {
+        display: none
+    }
+    .single-blog-box {
+        overflow-y: scroll
+    }
+    .bottom-footer-left {
+        text-align: center;
+        margin-bottom: 20px
+    }
+    .bottom-footer-right {
+        text-align: center
+    }
+    .download-pdf {
+        margin: 10px 0
+    }
+    .work-content {
+        margin: 0px !important
+    }
+    /*index.html-end*/
+    /*Quantam_X_Alpha.html-start*/
+    .without-responsive-pdf {
+        display: none
+    }
+    .strategy-image-letf img {
+        display: none
+    }
+    .responsive-pdf {
+        display: unset
+    }
+    .box-number-algorithm {
+        display: none
+    }
+    .box-content-algorithm {
+        width: 100%
+    }
+    .box-content-algorithm {
+        margin: 0px !important
+    }
+    .responsive-table {
+        display: none
+    }
+    .need-box-content {
+        margin-right: 0px !important;
+        height: auto !important;
+        margin-bottom: 50px !important;
+        padding: 30px 25px;
+    }
+    .table-quantum {
+        width: 100%;
+        margin-bottom: 50px
+    }
+    .download-pdf span {
+        font-size: 16px
+    }
+    /*Quantam_X_Alpha.html-end*/
+    /*About.html-start*/
+    .point-image img {
+        width: 100% !important
+    }
+    .point-content {
+        width: 100%;
+        text-align: start
+    }
+    .point-image {
+        display: none
+    }
+    .about-image-title-top span {
+        font-size: 16px;
+    }
+    /*About.html-end*/
+    /*contact.html-start*/
+    .full-ADDRESS {
+        margin-bottom: 80px
+    }
+    .title-light {
+        text-align: center !important
+    }
+    .input-contact {
+        margin: 0 30px !important
+    }
+    /*contact.html-end*/
+    .top-slider-faq-content h1 {
+        font-size: 30px;
+    }
+    .top-slider-faq-content {
+        width: 100%;
+    }
+    .top-slider-faq-content p {
+        font-size: 16px;
+    }
+    .single-blog-box h4 {
+        font-size: 20px !important;
+    }
+    .single-blog-box.bgcolor.main-blog.mt-0.mb-20.aos-init.aos-animate {
+        padding: 12px 10px;
+    }
+}
+
+
+/*animation off*/
